@@ -1,7 +1,6 @@
-
 #include <iostream>  // For input and output operations
-#include <cctype>    // For character handling functions like toupper and isalnum
-#include <string>    // For string manipulation
+#include <cctype>    // For character handling functions like toupper, isdigit, and isalnum
+#include <string>    // For getline
 #include <iomanip>   // For formatted output (e.g., setw)
 #include <conio.h>   // For _getch() to wait for key press
 
